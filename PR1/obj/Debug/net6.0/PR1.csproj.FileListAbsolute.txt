@@ -1,0 +1,15 @@
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\bin\Debug\net6.0\PR1.exe
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\bin\Debug\net6.0\PR1.deps.json
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\bin\Debug\net6.0\PR1.runtimeconfig.json
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\bin\Debug\net6.0\PR1.dll
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\bin\Debug\net6.0\PR1.pdb
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\obj\Debug\net6.0\PR1.csproj.AssemblyReference.cache
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\obj\Debug\net6.0\PR1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\obj\Debug\net6.0\PR1.AssemblyInfoInputs.cache
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\obj\Debug\net6.0\PR1.AssemblyInfo.cs
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\obj\Debug\net6.0\PR1.csproj.CoreCompileInputs.cache
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\obj\Debug\net6.0\PR1.dll
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\obj\Debug\net6.0\refint\PR1.dll
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\obj\Debug\net6.0\PR1.pdb
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\obj\Debug\net6.0\PR1.genruntimeconfig.cache
+C:\Users\m_bos\Desktop\Си Шарп\asdfg\lvl1\lvl2\PR1\obj\Debug\net6.0\ref\PR1.dll
